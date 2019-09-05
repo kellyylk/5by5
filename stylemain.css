@@ -1,0 +1,41 @@
+body {
+
+}
+
+h1 {
+font-family: 'Poppins', sans-serif;
+margin-left: 600pt;	
+font-size: 20pt;
+margin-top: -30pt;
+}
+
+h2 {
+margin-top: 20pt;
+font-size: 50pt;
+text-align: center;
+margin-left: 430pt;
+font-family: 'Poppins', sans-serif;
+border: 3px solid black;
+width: 300px;
+}
+
+h3 {
+font-size: 20pt;
+margin-left:340pt;
+font-family: 'Poppins', sans-serif;
+text-decoration: underline;
+}
+
+a {
+font-size: 20pt;
+margin-left: 340pt;
+font-family: 'Poppins', sans-serif;
+text-decoration: none;
+}
+
+.days a {
+	margin-left: 500pt;
+	font-size: 40pt;
+	color: blue;
+}
+
